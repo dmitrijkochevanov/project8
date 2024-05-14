@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "project8"
+version = "0.1.0"
+description = ""
+authors = ["dmitriy_kochevanov <dima.kochevanov1984@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
